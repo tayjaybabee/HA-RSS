@@ -1,8 +1,8 @@
 {
   "domain": "rss_alerts",
   "name": "RSS Alerts",
-  "version": "0.1.0",
-  "documentation": "https://github.com/yourusername/ha-rss-alerts",
+  "version": "1.0.0-dev.1",
+  "documentation": "https://github.com/Inspyre-Softworks/ha-rss-alerts",
   "requirements": [
     "feedgen==0.9.0"
   ],
